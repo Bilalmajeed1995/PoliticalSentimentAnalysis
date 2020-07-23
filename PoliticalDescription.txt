@@ -1,0 +1,10 @@
+Citation
+  https://www.kaggle.com/kapastor/democratvsrepublicantweets/version/3
+
+Attributes
+  Party: Political party
+  Handle: Individual writing the tweet
+  Tweet
+
+The Problem Statement
+  Explore TextBlob sentiment analysis for unsupervised sentiment predictions and visualize using WordCloud.
